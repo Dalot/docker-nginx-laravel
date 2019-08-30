@@ -1,0 +1,562 @@
+2019-08-29 12:20:22,370 CRIT Supervisor running as root (no user in config file)
+2019-08-29 12:20:22,374 INFO supervisord started with pid 8
+2019-08-29 12:20:23,379 INFO spawned: 'nginx' with pid 11
+2019-08-29 12:20:23,383 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 12:20:24,640 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 12:20:24,641 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:06:38,394 CRIT Supervisor running as root (no user in config file)
+2019-08-29 13:06:38,397 INFO supervisord started with pid 7
+2019-08-29 13:06:39,401 INFO spawned: 'nginx' with pid 10
+2019-08-29 13:06:39,404 INFO spawned: 'php-fpm7.3' with pid 11
+2019-08-29 13:06:40,434 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:06:40,435 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:09:32,295 CRIT Supervisor running as root (no user in config file)
+2019-08-29 13:09:32,299 INFO supervisord started with pid 8
+2019-08-29 13:09:33,304 INFO spawned: 'nginx' with pid 11
+2019-08-29 13:09:33,306 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 13:09:34,339 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:09:34,339 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:11:48,549 CRIT Supervisor running as root (no user in config file)
+2019-08-29 13:11:48,553 INFO supervisord started with pid 7
+2019-08-29 13:11:49,557 INFO spawned: 'nginx' with pid 10
+2019-08-29 13:11:49,559 INFO spawned: 'php-fpm7.3' with pid 11
+2019-08-29 13:11:50,590 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:11:50,590 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:14:17,575 CRIT Supervisor running as root (no user in config file)
+2019-08-29 13:14:17,580 INFO supervisord started with pid 9
+2019-08-29 13:14:18,584 INFO spawned: 'nginx' with pid 12
+2019-08-29 13:14:18,587 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 13:14:19,786 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:14:19,788 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:16:16,725 CRIT Supervisor running as root (no user in config file)
+2019-08-29 13:16:16,728 INFO supervisord started with pid 8
+2019-08-29 13:16:17,731 INFO spawned: 'nginx' with pid 11
+2019-08-29 13:16:17,733 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 13:16:18,764 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:16:18,764 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:42:53,597 CRIT Supervisor running as root (no user in config file)
+2019-08-29 13:42:53,602 INFO supervisord started with pid 9
+2019-08-29 13:42:54,606 INFO spawned: 'nginx' with pid 12
+2019-08-29 13:42:54,607 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 13:42:55,808 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:42:55,810 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:56:56,069 CRIT Supervisor running as root (no user in config file)
+2019-08-29 13:56:56,072 INFO supervisord started with pid 9
+2019-08-29 13:56:57,078 INFO spawned: 'nginx' with pid 12
+2019-08-29 13:56:57,080 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 13:56:58,119 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 13:56:58,119 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:12:22,788 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:12:22,792 INFO supervisord started with pid 9
+2019-08-29 14:12:23,797 INFO spawned: 'nginx' with pid 12
+2019-08-29 14:12:23,799 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 14:12:24,838 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:12:24,839 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:14:09,399 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:14:09,402 INFO supervisord started with pid 8
+2019-08-29 14:14:10,407 INFO spawned: 'nginx' with pid 11
+2019-08-29 14:14:10,410 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 14:14:11,443 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:14:11,445 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:18:45,833 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:18:45,838 INFO supervisord started with pid 8
+2019-08-29 14:18:46,844 INFO spawned: 'nginx' with pid 11
+2019-08-29 14:18:46,851 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 14:18:48,084 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:18:48,086 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:19:44,621 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:19:44,625 INFO supervisord started with pid 11
+2019-08-29 14:19:45,627 INFO spawned: 'nginx' with pid 14
+2019-08-29 14:19:45,628 INFO spawned: 'php-fpm7.3' with pid 15
+2019-08-29 14:19:46,661 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:19:46,662 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:27:14,814 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:27:14,826 INFO supervisord started with pid 9
+2019-08-29 14:27:15,833 INFO spawned: 'nginx' with pid 12
+2019-08-29 14:27:15,835 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 14:27:17,046 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:27:17,046 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:38:58,146 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:38:58,150 INFO supervisord started with pid 9
+2019-08-29 14:38:59,153 INFO spawned: 'nginx' with pid 12
+2019-08-29 14:38:59,155 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 14:39:00,191 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:39:00,193 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:40:29,313 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:40:29,319 INFO supervisord started with pid 9
+2019-08-29 14:40:30,321 INFO spawned: 'nginx' with pid 12
+2019-08-29 14:40:30,323 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 14:40:30,619 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:40:31,846 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:40:31,851 INFO spawned: 'php-fpm7.3' with pid 18
+2019-08-29 14:40:31,886 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:40:34,290 INFO spawned: 'php-fpm7.3' with pid 19
+2019-08-29 14:40:34,352 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:40:37,360 INFO spawned: 'php-fpm7.3' with pid 20
+2019-08-29 14:40:37,393 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:40:38,395 INFO gave up: php-fpm7.3 entered FATAL state, too many start retries too quickly
+2019-08-29 14:41:02,771 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:41:02,776 INFO supervisord started with pid 11
+2019-08-29 14:41:03,780 INFO spawned: 'nginx' with pid 14
+2019-08-29 14:41:03,781 INFO spawned: 'php-fpm7.3' with pid 15
+2019-08-29 14:41:03,813 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:41:04,815 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:41:04,819 INFO spawned: 'php-fpm7.3' with pid 20
+2019-08-29 14:41:04,851 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:41:06,858 INFO spawned: 'php-fpm7.3' with pid 21
+2019-08-29 14:41:06,895 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:41:09,903 INFO spawned: 'php-fpm7.3' with pid 22
+2019-08-29 14:41:09,937 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:41:10,938 INFO gave up: php-fpm7.3 entered FATAL state, too many start retries too quickly
+2019-08-29 14:41:57,695 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:41:57,699 INFO supervisord started with pid 8
+2019-08-29 14:41:58,705 INFO spawned: 'nginx' with pid 11
+2019-08-29 14:41:58,707 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 14:41:58,739 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:41:59,741 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:41:59,746 INFO spawned: 'php-fpm7.3' with pid 17
+2019-08-29 14:41:59,780 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:42:01,787 INFO spawned: 'php-fpm7.3' with pid 18
+2019-08-29 14:42:01,848 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:42:11,978 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:42:11,984 INFO supervisord started with pid 11
+2019-08-29 14:42:12,987 INFO spawned: 'nginx' with pid 14
+2019-08-29 14:42:12,988 INFO spawned: 'php-fpm7.3' with pid 15
+2019-08-29 14:42:13,021 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:42:14,023 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:42:14,028 INFO spawned: 'php-fpm7.3' with pid 20
+2019-08-29 14:42:14,079 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:42:16,086 INFO spawned: 'php-fpm7.3' with pid 21
+2019-08-29 14:42:16,145 INFO exited: php-fpm7.3 (exit status 78; not expected)
+2019-08-29 14:52:12,215 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:52:12,235 INFO supervisord started with pid 10
+2019-08-29 14:52:13,238 INFO spawned: 'nginx' with pid 13
+2019-08-29 14:52:13,240 INFO spawned: 'php-fpm7.3' with pid 14
+2019-08-29 14:52:14,454 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:52:14,455 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:56:19,078 CRIT Supervisor running as root (no user in config file)
+2019-08-29 14:56:19,083 INFO supervisord started with pid 10
+2019-08-29 14:56:20,085 INFO spawned: 'nginx' with pid 13
+2019-08-29 14:56:20,087 INFO spawned: 'php-fpm7.3' with pid 14
+2019-08-29 14:56:21,119 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 14:56:21,120 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:00:41,411 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:00:41,416 INFO supervisord started with pid 9
+2019-08-29 15:00:42,418 INFO spawned: 'nginx' with pid 12
+2019-08-29 15:00:42,420 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 15:00:43,454 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:00:43,454 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:01:11,747 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:01:11,751 INFO supervisord started with pid 9
+2019-08-29 15:01:12,755 INFO spawned: 'nginx' with pid 12
+2019-08-29 15:01:12,758 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 15:01:13,801 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:01:13,801 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:02:16,780 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:02:16,786 INFO supervisord started with pid 10
+2019-08-29 15:02:17,788 INFO spawned: 'nginx' with pid 13
+2019-08-29 15:02:17,789 INFO spawned: 'php-fpm7.3' with pid 14
+2019-08-29 15:02:18,995 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:02:18,995 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:03:36,741 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:03:36,745 INFO supervisord started with pid 9
+2019-08-29 15:03:37,747 INFO spawned: 'nginx' with pid 12
+2019-08-29 15:03:37,749 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 15:03:38,784 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:03:38,785 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:08:12,355 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:08:12,359 INFO supervisord started with pid 9
+2019-08-29 15:08:13,362 INFO spawned: 'nginx' with pid 12
+2019-08-29 15:08:13,367 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 15:08:14,408 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:08:14,410 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:09:22,637 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:09:22,641 INFO supervisord started with pid 12
+2019-08-29 15:09:23,643 INFO spawned: 'nginx' with pid 15
+2019-08-29 15:09:23,644 INFO spawned: 'php-fpm7.3' with pid 16
+2019-08-29 15:09:24,677 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:09:24,677 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:14:56,751 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:14:56,754 INFO supervisord started with pid 9
+2019-08-29 15:14:57,757 INFO spawned: 'nginx' with pid 12
+2019-08-29 15:14:57,759 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 15:14:58,793 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:14:58,794 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:18:33,365 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:18:33,371 INFO supervisord started with pid 8
+2019-08-29 15:18:34,374 INFO spawned: 'nginx' with pid 11
+2019-08-29 15:18:34,376 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 15:18:35,687 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:18:35,688 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:20:15,595 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:20:15,599 INFO supervisord started with pid 9
+2019-08-29 15:20:16,602 INFO spawned: 'nginx' with pid 12
+2019-08-29 15:20:16,604 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 15:20:17,643 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:20:17,644 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:28:24,280 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:28:24,285 INFO supervisord started with pid 10
+2019-08-29 15:28:25,288 INFO spawned: 'nginx' with pid 13
+2019-08-29 15:28:25,290 INFO spawned: 'php-fpm7.3' with pid 14
+2019-08-29 15:28:26,336 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:28:26,336 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:29:23,133 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:29:23,137 INFO supervisord started with pid 9
+2019-08-29 15:29:24,139 INFO spawned: 'nginx' with pid 12
+2019-08-29 15:29:24,140 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 15:29:25,176 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:29:25,177 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:33:58,072 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:33:58,076 INFO supervisord started with pid 9
+2019-08-29 15:33:59,079 INFO spawned: 'nginx' with pid 12
+2019-08-29 15:33:59,080 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 15:34:00,110 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:34:00,111 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:42:16,166 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:42:16,170 INFO supervisord started with pid 8
+2019-08-29 15:42:17,172 INFO spawned: 'nginx' with pid 11
+2019-08-29 15:42:17,174 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 15:42:18,204 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:42:18,205 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:45:45,881 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:45:45,887 INFO supervisord started with pid 8
+2019-08-29 15:45:46,890 INFO spawned: 'nginx' with pid 11
+2019-08-29 15:45:46,892 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 15:45:47,923 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:45:47,925 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:52:12,198 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:52:12,201 INFO supervisord started with pid 10
+2019-08-29 15:52:13,204 INFO spawned: 'nginx' with pid 13
+2019-08-29 15:52:13,206 INFO spawned: 'php-fpm7.3' with pid 14
+2019-08-29 15:52:14,240 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:52:14,240 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:54:02,680 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:54:02,688 INFO supervisord started with pid 9
+2019-08-29 15:54:03,691 INFO spawned: 'nginx' with pid 12
+2019-08-29 15:54:03,693 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 15:54:04,727 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:54:04,728 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:59:17,661 CRIT Supervisor running as root (no user in config file)
+2019-08-29 15:59:17,666 INFO supervisord started with pid 8
+2019-08-29 15:59:18,669 INFO spawned: 'nginx' with pid 11
+2019-08-29 15:59:18,671 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 15:59:19,710 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 15:59:19,711 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:05:20,536 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:05:20,540 INFO supervisord started with pid 8
+2019-08-29 16:05:21,541 INFO spawned: 'nginx' with pid 11
+2019-08-29 16:05:21,542 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 16:05:22,574 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:05:22,574 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:12:31,438 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:12:31,441 INFO supervisord started with pid 8
+2019-08-29 16:12:32,446 INFO spawned: 'nginx' with pid 11
+2019-08-29 16:12:32,450 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 16:12:33,481 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:12:33,482 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:15:18,377 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:15:18,382 INFO supervisord started with pid 8
+2019-08-29 16:15:19,384 INFO spawned: 'nginx' with pid 11
+2019-08-29 16:15:19,385 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 16:15:20,415 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:15:20,417 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:20:45,624 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:20:45,628 INFO supervisord started with pid 8
+2019-08-29 16:20:46,630 INFO spawned: 'nginx' with pid 11
+2019-08-29 16:20:46,631 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 16:20:47,663 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:20:47,664 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:23:07,591 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:23:07,595 INFO supervisord started with pid 8
+2019-08-29 16:23:08,598 INFO spawned: 'nginx' with pid 11
+2019-08-29 16:23:08,599 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 16:23:09,630 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:23:09,631 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:24:51,749 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:24:51,753 INFO supervisord started with pid 9
+2019-08-29 16:24:52,758 INFO spawned: 'nginx' with pid 12
+2019-08-29 16:24:52,762 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 16:24:53,805 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:24:53,805 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:34:38,249 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:34:38,253 INFO supervisord started with pid 9
+2019-08-29 16:34:39,255 INFO spawned: 'nginx' with pid 12
+2019-08-29 16:34:39,257 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 16:34:40,291 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:34:40,292 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:35:42,835 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:35:42,839 INFO supervisord started with pid 8
+2019-08-29 16:35:43,845 INFO spawned: 'nginx' with pid 11
+2019-08-29 16:35:43,850 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 16:35:44,898 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:35:44,900 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:36:19,437 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:36:19,441 INFO supervisord started with pid 9
+2019-08-29 16:36:20,443 INFO spawned: 'nginx' with pid 12
+2019-08-29 16:36:20,444 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 16:36:21,475 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:36:21,475 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:38:47,320 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:38:47,324 INFO supervisord started with pid 8
+2019-08-29 16:38:48,327 INFO spawned: 'nginx' with pid 11
+2019-08-29 16:38:48,328 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 16:38:49,362 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:38:49,363 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:42:07,143 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:42:07,147 INFO supervisord started with pid 8
+2019-08-29 16:42:08,151 INFO spawned: 'nginx' with pid 11
+2019-08-29 16:42:08,155 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 16:42:09,203 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:42:09,204 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:43:40,033 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:43:40,037 INFO supervisord started with pid 10
+2019-08-29 16:43:41,039 INFO spawned: 'nginx' with pid 13
+2019-08-29 16:43:41,040 INFO spawned: 'php-fpm7.3' with pid 14
+2019-08-29 16:43:42,070 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:43:42,071 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:46:01,796 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:46:01,799 INFO supervisord started with pid 9
+2019-08-29 16:46:02,801 INFO spawned: 'nginx' with pid 12
+2019-08-29 16:46:02,803 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 16:46:03,833 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:46:03,834 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:46:44,491 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:46:44,494 INFO supervisord started with pid 10
+2019-08-29 16:46:45,496 INFO spawned: 'nginx' with pid 13
+2019-08-29 16:46:45,499 INFO spawned: 'php-fpm7.3' with pid 14
+2019-08-29 16:46:46,531 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:46:46,531 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:51:46,503 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:51:46,507 INFO supervisord started with pid 11
+2019-08-29 16:51:47,510 INFO spawned: 'nginx' with pid 14
+2019-08-29 16:51:47,511 INFO spawned: 'php-fpm7.3' with pid 15
+2019-08-29 16:51:48,545 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:51:48,546 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:53:31,850 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:53:31,854 INFO supervisord started with pid 10
+2019-08-29 16:53:32,859 INFO spawned: 'nginx' with pid 13
+2019-08-29 16:53:32,865 INFO spawned: 'php-fpm7.3' with pid 14
+2019-08-29 16:53:33,915 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:53:33,915 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:55:15,256 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:55:15,260 INFO supervisord started with pid 13
+2019-08-29 16:55:16,262 INFO spawned: 'nginx' with pid 16
+2019-08-29 16:55:16,263 INFO spawned: 'php-fpm7.3' with pid 17
+2019-08-29 16:55:17,297 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:55:17,297 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:57:12,722 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:57:12,726 INFO supervisord started with pid 8
+2019-08-29 16:57:13,729 INFO spawned: 'nginx' with pid 11
+2019-08-29 16:57:13,731 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 16:57:14,777 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:57:14,777 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:57:46,676 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:57:46,683 INFO supervisord started with pid 9
+2019-08-29 16:57:47,689 INFO spawned: 'nginx' with pid 12
+2019-08-29 16:57:47,690 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 16:57:48,720 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:57:48,721 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:59:04,655 CRIT Supervisor running as root (no user in config file)
+2019-08-29 16:59:04,660 INFO supervisord started with pid 9
+2019-08-29 16:59:05,662 INFO spawned: 'nginx' with pid 12
+2019-08-29 16:59:05,664 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 16:59:06,696 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 16:59:06,696 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:00:02,104 CRIT Supervisor running as root (no user in config file)
+2019-08-29 17:00:02,109 INFO supervisord started with pid 8
+2019-08-29 17:00:03,113 INFO spawned: 'nginx' with pid 11
+2019-08-29 17:00:03,116 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 17:00:04,156 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:00:04,157 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:01:38,934 CRIT Supervisor running as root (no user in config file)
+2019-08-29 17:01:38,938 INFO supervisord started with pid 12
+2019-08-29 17:01:39,941 INFO spawned: 'nginx' with pid 15
+2019-08-29 17:01:39,942 INFO spawned: 'php-fpm7.3' with pid 16
+2019-08-29 17:01:40,979 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:01:40,980 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:02:37,591 CRIT Supervisor running as root (no user in config file)
+2019-08-29 17:02:37,595 INFO supervisord started with pid 14
+2019-08-29 17:02:38,600 INFO spawned: 'nginx' with pid 17
+2019-08-29 17:02:38,604 INFO spawned: 'php-fpm7.3' with pid 18
+2019-08-29 17:02:39,634 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:02:39,634 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:05:19,887 CRIT Supervisor running as root (no user in config file)
+2019-08-29 17:05:19,891 INFO supervisord started with pid 9
+2019-08-29 17:05:20,893 INFO spawned: 'nginx' with pid 12
+2019-08-29 17:05:20,895 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 17:05:21,926 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:05:21,928 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:14:58,500 CRIT Supervisor running as root (no user in config file)
+2019-08-29 17:14:58,509 INFO supervisord started with pid 9
+2019-08-29 17:14:59,511 INFO spawned: 'nginx' with pid 12
+2019-08-29 17:14:59,513 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 17:15:00,545 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:15:00,545 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:15:29,381 CRIT Supervisor running as root (no user in config file)
+2019-08-29 17:15:29,384 INFO supervisord started with pid 7
+2019-08-29 17:15:30,389 INFO spawned: 'nginx' with pid 10
+2019-08-29 17:15:30,390 INFO spawned: 'php-fpm7.3' with pid 11
+2019-08-29 17:15:31,421 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:15:31,422 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:16:42,563 CRIT Supervisor running as root (no user in config file)
+2019-08-29 17:16:42,568 INFO supervisord started with pid 9
+2019-08-29 17:16:43,571 INFO spawned: 'nginx' with pid 12
+2019-08-29 17:16:43,572 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-29 17:16:44,604 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:16:44,605 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:22:38,313 CRIT Supervisor running as root (no user in config file)
+2019-08-29 17:22:38,317 INFO supervisord started with pid 8
+2019-08-29 17:22:39,320 INFO spawned: 'nginx' with pid 11
+2019-08-29 17:22:39,321 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 17:22:40,353 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:22:40,353 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:29:47,828 CRIT Supervisor running as root (no user in config file)
+2019-08-29 17:29:47,831 INFO supervisord started with pid 8
+2019-08-29 17:29:48,834 INFO spawned: 'nginx' with pid 11
+2019-08-29 17:29:48,835 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-29 17:29:49,867 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-29 17:29:49,867 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:01:18,685 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:01:18,689 INFO supervisord started with pid 9
+2019-08-30 08:01:19,691 INFO spawned: 'nginx' with pid 12
+2019-08-30 08:01:19,693 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-30 08:01:20,723 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:01:20,725 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:02:23,492 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:02:23,500 INFO supervisord started with pid 8
+2019-08-30 08:02:24,504 INFO spawned: 'nginx' with pid 11
+2019-08-30 08:02:24,506 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-30 08:02:25,538 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:02:25,539 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:04:35,671 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:04:35,675 INFO supervisord started with pid 8
+2019-08-30 08:04:36,677 INFO spawned: 'nginx' with pid 11
+2019-08-30 08:04:36,679 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-30 08:04:37,711 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:04:37,712 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:10:38,925 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:10:38,929 INFO supervisord started with pid 13
+2019-08-30 08:10:39,931 INFO spawned: 'nginx' with pid 16
+2019-08-30 08:10:39,932 INFO spawned: 'php-fpm7.3' with pid 17
+2019-08-30 08:10:40,963 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:10:40,963 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:12:09,696 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:12:09,699 INFO supervisord started with pid 9
+2019-08-30 08:12:10,705 INFO spawned: 'nginx' with pid 12
+2019-08-30 08:12:10,707 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-30 08:12:11,738 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:12:11,739 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:14:30,126 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:14:30,130 INFO supervisord started with pid 8
+2019-08-30 08:14:31,135 INFO spawned: 'nginx' with pid 11
+2019-08-30 08:14:31,140 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-30 08:14:32,179 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:14:32,181 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:16:39,039 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:16:39,043 INFO supervisord started with pid 8
+2019-08-30 08:16:40,047 INFO spawned: 'nginx' with pid 11
+2019-08-30 08:16:40,048 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-30 08:16:41,079 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:16:41,085 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:17:53,559 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:17:53,563 INFO supervisord started with pid 9
+2019-08-30 08:17:54,565 INFO spawned: 'nginx' with pid 12
+2019-08-30 08:17:54,567 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-30 08:17:55,599 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:17:55,600 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:22:47,679 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:22:47,682 INFO supervisord started with pid 9
+2019-08-30 08:22:48,687 INFO spawned: 'nginx' with pid 12
+2019-08-30 08:22:48,688 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-30 08:22:49,719 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:22:49,719 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:23:42,507 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:23:42,511 INFO supervisord started with pid 10
+2019-08-30 08:23:43,516 INFO spawned: 'nginx' with pid 13
+2019-08-30 08:23:43,520 INFO spawned: 'php-fpm7.3' with pid 14
+2019-08-30 08:23:44,551 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:23:44,552 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:24:20,485 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:24:20,488 INFO supervisord started with pid 10
+2019-08-30 08:24:21,491 INFO spawned: 'nginx' with pid 18
+2019-08-30 08:24:21,492 INFO spawned: 'php-fpm7.3' with pid 19
+2019-08-30 08:24:22,523 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:24:22,525 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:27:04,520 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:27:04,523 INFO supervisord started with pid 10
+2019-08-30 08:27:05,526 INFO spawned: 'nginx' with pid 18
+2019-08-30 08:27:05,527 INFO spawned: 'php-fpm7.3' with pid 19
+2019-08-30 08:27:06,565 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:27:06,565 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:28:21,605 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:28:21,609 INFO supervisord started with pid 8
+2019-08-30 08:28:22,613 INFO spawned: 'nginx' with pid 16
+2019-08-30 08:28:22,615 INFO spawned: 'php-fpm7.3' with pid 17
+2019-08-30 08:28:23,663 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:28:23,663 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:30:06,158 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:30:06,163 INFO supervisord started with pid 8
+2019-08-30 08:30:07,165 INFO spawned: 'nginx' with pid 16
+2019-08-30 08:30:07,166 INFO spawned: 'php-fpm7.3' with pid 17
+2019-08-30 08:30:08,203 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:30:08,203 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:30:46,414 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:30:46,418 INFO supervisord started with pid 8
+2019-08-30 08:30:47,421 INFO spawned: 'nginx' with pid 16
+2019-08-30 08:30:47,421 INFO spawned: 'php-fpm7.3' with pid 17
+2019-08-30 08:30:48,455 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:30:48,456 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:34:47,641 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:34:47,646 INFO supervisord started with pid 10
+2019-08-30 08:34:48,671 INFO spawned: 'nginx' with pid 18
+2019-08-30 08:34:48,672 INFO spawned: 'php-fpm7.3' with pid 19
+2019-08-30 08:34:49,706 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:34:49,706 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:35:36,906 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:35:36,910 INFO supervisord started with pid 8
+2019-08-30 08:35:37,912 INFO spawned: 'nginx' with pid 16
+2019-08-30 08:35:37,913 INFO spawned: 'php-fpm7.3' with pid 17
+2019-08-30 08:35:38,945 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:35:38,945 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:36:38,565 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:36:38,569 INFO supervisord started with pid 8
+2019-08-30 08:36:39,572 INFO spawned: 'nginx' with pid 16
+2019-08-30 08:36:39,573 INFO spawned: 'php-fpm7.3' with pid 17
+2019-08-30 08:36:40,608 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:36:40,609 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:43:25,180 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:43:25,185 INFO supervisord started with pid 9
+2019-08-30 08:43:26,187 INFO spawned: 'nginx' with pid 12
+2019-08-30 08:43:26,188 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-30 08:43:27,220 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:43:27,221 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:44:37,766 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:44:37,769 INFO supervisord started with pid 8
+2019-08-30 08:44:38,771 INFO spawned: 'nginx' with pid 11
+2019-08-30 08:44:38,772 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-30 08:44:39,810 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:44:39,810 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:45:18,286 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:45:18,292 INFO supervisord started with pid 8
+2019-08-30 08:45:19,295 INFO spawned: 'nginx' with pid 18
+2019-08-30 08:45:19,296 INFO spawned: 'php-fpm7.3' with pid 19
+2019-08-30 08:45:20,330 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:45:20,331 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:46:28,811 CRIT Supervisor running as root (no user in config file)
+2019-08-30 08:46:28,815 INFO supervisord started with pid 9
+2019-08-30 08:46:29,820 INFO spawned: 'nginx' with pid 12
+2019-08-30 08:46:29,826 INFO spawned: 'php-fpm7.3' with pid 13
+2019-08-30 08:46:30,857 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 08:46:30,859 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 09:11:40,281 CRIT Supervisor running as root (no user in config file)
+2019-08-30 09:11:40,284 INFO supervisord started with pid 8
+2019-08-30 09:11:41,286 INFO spawned: 'nginx' with pid 11
+2019-08-30 09:11:41,287 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-30 09:11:42,320 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 09:11:42,320 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 09:14:00,063 CRIT Supervisor running as root (no user in config file)
+2019-08-30 09:14:00,067 INFO supervisord started with pid 8
+2019-08-30 09:14:01,072 INFO spawned: 'nginx' with pid 11
+2019-08-30 09:14:01,077 INFO spawned: 'php-fpm7.3' with pid 12
+2019-08-30 09:14:02,109 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 09:14:02,109 INFO success: php-fpm7.3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
