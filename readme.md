@@ -44,12 +44,12 @@ Docker environment required to run Laravel 5.8 behind nginx and php-fpm, tested 
     ```
 
 ## Additional main command available:
-    ```
-    ./develop stop
-    ./develop gulp
-    ./develop yarn
-    ./develop bash
-    ```
+```
+./develop stop
+./develop gulp
+./develop yarn
+./develop bash
+```
     
 
 
