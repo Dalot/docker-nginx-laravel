@@ -1,7 +1,7 @@
-# PHP 7.3 Laravel environment
+# PHP 7.3 Laravel environment behind Nginx virtual host
 Docker environment required to run Laravel 5.8 behind nginx and php-fpm, tested on Windows 10.
 
-[Source code](https://github.com/dimadeush/docker-nginx-php-laravel.git)
+
 
 ## Tested on 
 * Windows Desktop
