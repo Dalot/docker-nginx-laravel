@@ -49,7 +49,6 @@ Docker environment required to run Laravel 5.8 behind nginx and php-fpm, tested 
     ./develop gulp
     ./develop yarn
     ./develop bash
-
     ```
     
 
